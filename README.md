@@ -8,7 +8,9 @@ Etapa 1 - gata.
 
 Etapa 2 - gata.
 
-etapa 3 - next.
+Etapa 3 - gata.
+
+Etapa 4 - next.
 
 Skydiving – Romania
 
@@ -44,4 +46,5 @@ Modele de Site-uri:
 4.	http://aeroclubulromaniei.ro/page/aeroclubul-teritorial-grigore-bastan-suceava-parasutism-27
 5.	https://www.skydivedubai.ae/
 
+<b>Schema-Cromatica<b>: Culoarea principala aleasa pentru cromatica site-ului este dark-blue intrucat consider ca aceasta reprezinta cel mai clar ideea de salt cu parasuta. In timpul unui salt, pe langa impunatoarea masa pamanteasca, se observa si mai clar imensitatea cereasca care este dominata de o culoare albastra deschisa. Printre culorile alese, se afla si rosul deoarece aceasta este printre culorile principale alese de parasutisti intrucat se poate observa astfel contrastul dintre cer si combinezonul lor. Astfel, combiantia de culori este o asa numita “Complementary combination” care este perfecta pentru contrast, rosul si albastrul aflandu-se in locuri opuse pe cercul cromatic.
 
