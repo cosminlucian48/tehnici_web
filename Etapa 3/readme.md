@@ -5,9 +5,9 @@
  </details>
  <details>
   <summary>Layout-Responsive</summary>
-  <p>
     <img width="400px" src="http://irinaciocan.ro/tehnici_web/imagini/exercitii/layout-responsive/layout-5.png"></img>
-  </p>
+  <p>->index.html : linia 104 -- declarare tabel</p>
+  <p>->main.css : linia 139 -- stilizare tabel</p>
  </details>
  <details>
   <summary>Variante-Meniu</summary>
