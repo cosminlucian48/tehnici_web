@@ -5,7 +5,9 @@
  </details>
  <details>
   <summary>Layout-Responsive</summary>
-  <p>t</p>
+  <p>
+    <img src="http://irinaciocan.ro/tehnici_web/imagini/exercitii/layout-responsive/layout-5.png"></img>
+  </p>
  </details>
  <details>
   <summary>Variante-Meniu</summary>
