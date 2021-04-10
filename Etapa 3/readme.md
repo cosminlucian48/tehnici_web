@@ -10,7 +10,12 @@
   <p>->main.css : linia 139 -- stilizare tabel</p>
  </details>
  <details>
+  <a href="http://irinaciocan.ro/tehnici_web/video/variante-meniu/meniu-opt-tranzitie-3.mp4" target="video-o">Meniu Normal</a>
+  <a href="" target="video-o">Meniu Mic</a>
   <summary>Variante-Meniu</summary>
+  <iframe name="video-o" height="515" src=""
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen></iframe>
   <p></p>
  </details>
  <details>
