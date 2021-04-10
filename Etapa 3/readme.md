@@ -39,12 +39,20 @@
  </details>
  <details>
   <summary>Animatie Banner</summary>
-  <p>--index.html : linia 456 -- declarare </p>
+  <p>->index.html : linia 456 -- declarare </p>
   <p>->main.css : linia 338 -- stilizare </p>
  </details>
  <details>
   <summary>Stilizare-Tabel</summary>
   
-  <p>--index.html : linia 104 -- declarare </p>
+  <p>->index.html : linia 104 -- declarare </p>
+  <p>->main.css : linia 139 -- stilizare </p>
+ </details>
+ <details>
+  <summary>Icon-uri si font extern</summary>
+  
+  <p>->index.html : linia 17 -- declarare </p>
+  <p>->index.html : linia 35 -- icon home </p>
+  <p>->index.html : linia 67 -- icon cu animatie </p>
   <p>->main.css : linia 139 -- stilizare </p>
  </details>
