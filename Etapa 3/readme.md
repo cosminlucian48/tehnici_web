@@ -6,7 +6,7 @@
  <details>
   <summary>Layout-Responsive</summary>
   <p>
-    <img src="http://irinaciocan.ro/tehnici_web/imagini/exercitii/layout-responsive/layout-5.png"></img>
+    <img width="200px" src="http://irinaciocan.ro/tehnici_web/imagini/exercitii/layout-responsive/layout-5.png"></img>
   </p>
  </details>
  <details>
