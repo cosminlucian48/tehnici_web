@@ -1,7 +1,7 @@
 <h1> Etapa 3 </h1>
 <details>
   <summary>Schema-Cromatica</summary>
-  <p>Rezolvarea se afla in fisierul creat in etapa 1: skydive.docx si de asemenea in readme.md - ul repository-ului "tehnici-web". </p>
+  <p>Rezolvarea se afla in fisierul creat in etapa 1: skydive.docx . </p>
  </details>
  <details>
   <summary>Layout-Responsive</summary>
