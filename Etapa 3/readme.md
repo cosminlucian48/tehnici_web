@@ -1,11 +1,17 @@
 <h1> Etapa 3 </h1>
-<summary>
-  <details>Schema Cromatica
-  </details>
-  
-  <details>test1
-  </details>
-  
-  <details>test1
-  </details>
-  </summary>
+<details>
+  <summary>Schema-Cromatica</summary>
+  <p>a</p>
+ </details>
+ <details>
+  <summary>Layout-Responsive</summary>
+  <p>t</p>
+ </details>
+ <details>
+  <summary>Schema-Cromatica</summary>
+  <p></p>
+ </details>
+ <details>
+  <summary>Schema-Cromatica</summary>
+  <p></p>
+ </details>
